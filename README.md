@@ -1,4 +1,4 @@
-# k8s-csi-storage-drivers
+# Kubernetes CSI Storage Drivers
 
 ## Whast is this?
 This repo wants to hold a list of Kubernetes CSI drivers and management solution for databases.  
