@@ -7,13 +7,15 @@ At present the list considers:
 - distributed block storage
 - snapshot & backup/restore capabilities
 - UI, CLI and REST interfaces
-- dulcis in fundo: performance :-)
+- *dulcis in fundo*: performance :-)
 
 ## In an ideal world
 I'd like to stress-test them all with a consistent series of tests and data use-cases and compare them. In practise I know it'll be impossible to test them all and follow them as they mature and new releases come to market.
 The idea is to have subdirectories with their names and within it, architecture details with reports on their UX, performance and management capabilities.
 
+### The list
 - [Arrikto Rok](https://www.arrikto.com/rok-data-management/)
+- [Blockbridge](http://www.blockbridge.com/)
 - [Ceph CSI](https://github.com/ceph/ceph-csi)
   - [Ceph FS](https://docs.ceph.com/en/latest/cephfs/)
 - [Dell EMC](https://dell.github.io/storage-plugin-docs/)
@@ -25,10 +27,14 @@ The idea is to have subdirectories with their names and within it, architecture 
 - [Hedvig](https://www.commvault.com/software-defined-storage)
 - [Mayadata Kubera](https://mayadata.io/product)
 - [NetApp Trident](https://netapp-trident.readthedocs.io/en/stable-v21.01/)
+- [OpenEBS](https://openebs.io/)
 - [Pure Storage - Portworx](https://portworx.com/)
 - [Rancher Labs Longhorn](https://longhorn.io/)
 - [Robin](https://robin.io/)
+- [Rook](https://rook.io/)
 - [StorageOS](https://storageos.com/features)
+- [Virtuozzo](https://www.virtuozzo.com/)
+ 
  
 
 ## What a report says
