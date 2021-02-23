@@ -1,8 +1,10 @@
 # Curated list of articles, reviews, test-comparisons and tools 
+This is W.I.P or work in progress as we discover, test and review more technologies and solutions
+
 
 ## Articles
 1. [Jacub Pavlik 2019-02 Storage performance comparison](https://medium.com/volterra-io/kubernetes-storage-performance-comparison-9e993cb27271)
-2. [Jacun Pavlink 2020-09 Storage performance comparison 2020 update] https://medium.com/volterra-io/kubernetes-storage-performance-comparison-v2-2020-updated-1c0b69f0dcf4
+2. [Jacun Pavlink 2020-09 Storage performance comparison 2020 update](https://medium.com/volterra-io/kubernetes-storage-performance-comparison-v2-2020-updated-1c0b69f0dcf4)
 3. [Performance and benchmarking - CNCF SIG Storage](https://docs.google.com/document/d/1r9gPg9wLwm2GAmEoSn_HOqMwWZjwCuT6TysclvPWVQU/edit#heading=h.9pnpbccsswm1)
 4. [Portworx & Mayastore K8s block storage](https://blocksandfiles.com/2020/11/30/portworx-and-mayastor-container-block-storage-flies-highest/)
 5. [Litmus the statefulSet chaos monkey](https://blog.openebs.io/litmus-release-a-chaos-monkey-on-your-kubernetes-stateful-workloads-6345e01b637d)
@@ -19,4 +21,3 @@
 3. [K-Bench by VMware](https://github.com/vmware-tanzu/k-bench)
 4. [K6](https://k6.io/)
 5. 
-6. 
