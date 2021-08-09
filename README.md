@@ -37,6 +37,8 @@ The idea is to have subdirectories with their names and within it, architecture 
 - [StorageOS](https://storageos.com/features)
 - [StorPool](https://storpool.com/kubernetes)
 - [Virtuozzo](https://www.virtuozzo.com/)
+- [SmartX](https://www.smartx.com/global/)
+  - [article](https://blocksandfiles.com/2021/08/05/kubernetes-storage-chinese-vendor-smartxs-iomesh-beats-portworx-longhorn-and-openebs/)
  
  
 
