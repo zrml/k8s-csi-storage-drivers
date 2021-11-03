@@ -28,6 +28,7 @@ The idea is to have subdirectories with their names and within it, architecture 
 - [Mayadata Kubera](https://mayadata.io/product)
 - [NetApp Trident](https://netapp-trident.readthedocs.io/en/stable-v21.01/)
 - [OpenEBS](https://openebs.io/)
+- [Ondat](https://www.ondat.io/)
 - [Piraeus](https://piraeus.io/)
   - it manages [LINSTOR](https://github.com/LINBIT/linstor-server)
 - [Pure Storage - Portworx](https://portworx.com/)
