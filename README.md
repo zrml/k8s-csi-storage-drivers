@@ -40,8 +40,24 @@ The idea is to have subdirectories with their names and within it, architecture 
  
  
 
-## What a report says
+## Storage Reports by GigOm
 
+### 2021
+In 2021 GigaOm differentiated between Cloud Native (CN) CSI storage solutions and Enterprise CSI solutions. The reader is advised to read the full report in order to better understand the segmentation done.
+
+
+**CN CSI Storage**
+The PDF --> 
+![The report](assets/2021_gigaom-radar-for-cloud-native-kubernetes-data-storage-1.pdf)
+
+![GigaOm 2021 CN K8s storage radar](assets/2021_GigaOm_Radar_CN_K8sStorage.png)
+
+**Enterprise CSI Storage**
+![GigaOm 2021 Enterprise K8s storage radar](assets/2021_GigaOm_Radar_Enterprise_K8sStorage.png)
+
+
+
+### 2020
 ![GigaOm 2020 K8s storage radar](assets/GigaOm_Radar_for_Data_Storage_for_Kubernetes-2020.png)
 
 
