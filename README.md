@@ -43,13 +43,6 @@ The idea is to have subdirectories with their names and within it, architecture 
  
  
 
-<<<<<<< HEAD
-## Storage Reports by GigOm
-=======
-## What a report says
-## TBReviewed 
->>>>>>> 4106cb88f625073a2a22f3f47e34810c52ff3dc6
-
 ### 2021
 In 2021 GigaOm differentiated between Cloud Native (CN) CSI storage solutions and Enterprise CSI solutions. The reader is advised to read the full report in order to better understand the segmentation done.
 
