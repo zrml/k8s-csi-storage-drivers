@@ -67,5 +67,6 @@ In 2021 GigaOm differentiated between **Cloud Native (CN)** CSI storage solution
 ![GigaOm 2020 K8s storage radar](assets/GigaOm_Radar_for_Data_Storage_for_Kubernetes-2020.png)
 
 
-<center>[The GigaOm 2020 Radar report](assets/gigaom-radar-for-data-storage-for-kubernetes-2020.pdf)</center>
+[The GigaOm 2020 Radar report](assets/gigaom-radar-for-data-storage-for-kubernetes-2020.pdf)
+
 
