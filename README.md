@@ -37,8 +37,8 @@ The idea is to have subdirectories with their names and within it, architecture 
 - [StorageOS / OnDat.io](https://storageos.com/features)
 - [StorPool](https://storpool.com/kubernetes)
 - [Virtuozzo](https://www.virtuozzo.com/)
- 
- 
+- [Volumez](https://volumez.com/) 
+
 
 # Storage Reports
 
