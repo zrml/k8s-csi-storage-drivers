@@ -42,6 +42,10 @@ The idea is to have subdirectories with their names and within it, architecture 
 
 # Storage Reports
 
+## 2022 GigaOm
+In 2022 GigaOm appeared to have standardized on "Cloud Native Kubernetes Data Storage"
+![GigaOm 2022 Cloud Native K8s data storage radar](assets/2022_GigaOm_Radar_for_Cloud-NativeStorage.jpg)
+
 ## 2021 GigaOm
 In 2021 GigaOm differentiated between **Cloud Native (CN)** CSI storage solutions and **Enterprise** CSI solutions. The reader is advised to read the full report in order to better understand the segmentation done.
 
