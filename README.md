@@ -38,6 +38,8 @@ The idea is to have subdirectories with their names and within it, architecture 
 - [StorPool](https://storpool.com/kubernetes)
 - [Virtuozzo](https://www.virtuozzo.com/)
 - [Volumez](https://volumez.com/) 
+- [Silk](https://silk.us/)
+- [Lightbits](https://www.lightbitslabs.com/)
 
 
 # Storage Reports
