@@ -1,7 +1,7 @@
-# Kubernetes CSI Storage Drivers
+# Kubernetes SDS with CSI drivers
 
 ## Whast is this?
-This repo wants to hold a list of Kubernetes CSI drivers and management solution for databases.  
+This repo wants to hold and evaluate a list of Kubernetes software defined storage (SDS) solutions and their CSI drivers.
 At present the list considers:
 - block storage
 - distributed block storage
